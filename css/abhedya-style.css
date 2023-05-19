@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Maven+Pro:400,700");
 body {
-  background-color: #271107;
+  background-color: #ffffff;
   font-family: "Maven Pro", sans-serif;
   padding-top: 30px;
 }
@@ -31,7 +31,7 @@ body {
   }
   
 .small-text {
-  color: #ffffff;
+  color: #000000;
   font-size: 14px;
   font-weight: bold;
   padding: 8px 16px;
@@ -62,7 +62,7 @@ font-size: 40px;
 p {
   font-size: 20px;
   font-weight: 500;
-  color: #ffffff;
+  color: #010101;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -71,19 +71,19 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  color: #d4d4d4;
+  color: #000000;
   font-size: 2.8em;
   margin: 24px 0;
 }
 
 h2 {
-  color: #c9c9c9;
+  color: #000000;
   font-size: 2.4em;
   font-weight: bold;
 }
 
 h3 {
-  color: #bebebe;
+  color: #000000;
 }
 
 h3,
@@ -92,7 +92,7 @@ b, strong {
 }
 
 h6 {
-  color: #f6f6f6;
+  color: #000000;
   font-size: 50px;
 }
 
@@ -204,14 +204,14 @@ b, strong {
   transform: translate(0, 0);
 }
 .navbar[class*="headroom--not-top"] {
-  background: #000000;
-  border-bottom: 1px solid #000000;
+  background: #ffffff;
+  border-bottom: 1px solid #131313;
   padding-top: 0;
   padding-bottom: 0;
 }
 
 .container .navbar-brand {
-  color: #8b8b8b;
+  color: #030303;
   font-weight: bold;
 }
 
@@ -225,7 +225,7 @@ b, strong {
   overflow: hidden;
 }
 .nav-link span {
-  color: #a1a1a1;
+  color: #8d8d8d;
   position: relative;
   display: inline-block;
   transition: transform 0.3s;
@@ -276,7 +276,7 @@ b, strong {
   bottom: 1px;
 }
 .navbar-toggler .navbar-toggler-icon {
-  background: #a4a4a4;
+  background: #000000;
   display: block;
   width: 100%;
   height: 2px;
@@ -292,13 +292,13 @@ b, strong {
 }
 
 .color-mode {
-  color: #878787;
+  color: #000000;
   font-weight: bold;
   cursor: pointer;
 }
 
 .color-mode-icon {
-  color: #878787;
+  color: #000000;
   position: relative;
   right: 6px;
 }
@@ -313,35 +313,35 @@ b, strong {
   font-family: 'unicons';
   content: '\eb65';
   font-size: 30px;
-  color: #000000;
+  color: #e4e4e4;
 }
 
 .light-mode {
-  background: #fffbfa;
+  background: #070707;
 }
 .light-mode .navbar-light .navbar-nav .nav-link {
-  color: rgba(255, 255, 255, 0.8);
+  color: rgba(226, 226, 226, 0.8);
 }
 .light-mode .navbar-light .navbar-nav .nav-link:hover {
   color: #ffc200;
 }
 .light-mode .navbar[class*="headroom--not-top"] {
-  background: #ffffff;
-  border-bottom: 1px solid #ffffff;
+  background: #000000;
+  border-bottom: 1px solid #5b5b5b;
 }
 .light-mode .small-text {
-  background: #ffffff;
+  background: #a1a1a1;
 }
 .light-mode .feature-card .uil,
 .light-mode .navbar-light .navbar-brand,
 .light-mode h1, .light-mode h2, .light-mode h3, .light-mode h4, .light-mode h5, .light-mode p,
 .light-mode .color-mode {
-  color: #000000;
+  color: #ffffff;
 }
 .light-mode .owl-carousel .owl-nav button.owl-next,
 .light-mode .owl-carousel .owl-nav button.owl-prev,
 .light-mode .owl-carousel button.owl-dot {
-  color: #000000;
+  color: #e1e1e1;
 }
 
 .timeline-wrapper {
@@ -972,7 +972,7 @@ background-image: linear-gradient(to bottom, #FFEB3C 0%, #ff9600 100%);
 #Events .card-1 .card-1-header {
   border-bottom: 0px;
   position: relative;
-  background-color:#0c0c0d;
+  background-color:#dadada;
   -moz-text-align-last: center;
   text-align-last: center;
 }
@@ -1043,7 +1043,7 @@ background-image: linear-gradient(to bottom, #FFEB3C 0%, #ff9600 100%);
 
 #Events .card-2 .card-2-header {
   border-bottom: 0px;
-  background-color:#0c0c0d;
+  background-color:#dadada;
   -moz-text-align-last: center;
   text-align-last: center;
 }
